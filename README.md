@@ -47,6 +47,8 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 <h2> Open-source Contributions:</h2>
+
+<h2> Certifications:</h2>
 <!--
 **ZiadHelal/ZiadHelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
