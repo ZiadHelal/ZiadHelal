@@ -46,9 +46,18 @@
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-<h2> Open-source Contributions:</h2>
+<h2>🌟 Open-source Contributions:</h2>
 
-<h2> Certifications:</h2>
+- [**Quantization for VeRA using bitsandbytes** 🚀](https://github.com/huggingface/peft/pull/2076)  
+  Added **4-bit and 8-bit quantization** to the VeRA method, leveraging `bitsandbytes`.  
+
+  **Key Features:**  
+  - 🛠️ New `bnb.py` for 4-bit & 8-bit layers.  
+  - ⚡ Enhanced `VeRA` for **lightning-fast, memory-efficient inference**.  
+  - ✅ Added **unit tests** for robust quantization support.  
+  - 📚 Updated documentation to reflect cutting-edge capabilities.  
+
+  **Impact:** Empowered Huggingface's PEFT library with **state-of-the-art quantized inference** for efficient and scalable AI models.
 <!--
 **ZiadHelal/ZiadHelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
